@@ -1,0 +1,5 @@
+#Exclue the Following files
+get.php
+connection.php
+index2.php
+post.php

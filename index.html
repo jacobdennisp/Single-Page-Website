@@ -10,7 +10,6 @@
         <link href="assets/fa/css/font-awesome.css" rel="stylesheet">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
-
         <style>
             .color-teal{
                 color:#00ffbf;
@@ -22,6 +21,13 @@
                 font-weight: 400;
                 text-align: center;
                 vertical-align: middle;
+            }
+            .remove-bullets,.remove-text-decoration a{
+                list-style-type:none;
+                text-decoration: none;
+                color:white;
+                float:left;
+                
             }
         </style>
 
@@ -124,8 +130,7 @@
                             <div class="card">
                                 <img class="card-img-top" src="https://dummyimage.com/300x300/7140db/f0f0f0&text=Sample+Image">
                                 <div class="card-body">
-                                    <h4 class="card-title">Team Member 1</h4>
-                                    
+                                    <h4 class="card-title">Team Member 1</h4>                                    
                                 </div>
                                 <div class="card-footer">
                                     <p class="Card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
@@ -136,8 +141,7 @@
                             <div class="card">
                                 <img class="card-img-top" src="https://dummyimage.com/300x300/7140db/f0f0f0&text=Sample+Image">
                                 <div class="card-body">
-                                    <h4 class="card-title">Team Member 2</h4>
-                                    
+                                    <h4 class="card-title">Team Member 2</h4>                                    
                                 </div>
                                 <div class="card-footer">
                                     <p class="Card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
@@ -217,31 +221,35 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                
+                </div>                
             </section>
         </main>
-        <footer class="bg-dark" style="padding-top: 25px; padding-bottom: 50px;">
-            <div class="container">
-                <div class="row">
+        <footer class="bg-dark" style="padding-top: 25px; ">
+            <div class="container"></div>
+                <div class="row" style="padding-bottom: 20px;">
                     <div class="col-sm-12 col-md-4">
-                        <img src="https://projectmantra.ai/img/projectmantra_white.png" height="30px">
-                        <br><br>
-                        <p class="text-white text-justify">We are project Mantra!<br> A Team Dedicated to <br>Excelling your Career <br>Growth</p>
-                    </div>
+                        <div class="container">
+                            <img src="https://projectmantra.ai/img/projectmantra_white.png" height="30px">
+                            <div>
+                                <p class="text-white" style="padding-top:10px">We are project Mantra!<br> A Team Dedicated to <br>Excelling your Career <br>Growth</p>
+                            </div>
+                        </div>
+                    </div>                                      
                     <div class="col-sm-12 col-md-4">
-                        <p class="text-white text-justify fs-5">Quick Links</p>
-                        <a class="text-decoration-none text-white" href="#">home</a><br>
-                        <a class="text-decoration-none text-white" href="#">Privacy Policy</a><br>
-                        <a class="text-decoration-none text-white" href="#">Career</a>
-                    </div>
-                    <div class="col-sm-12 col-md-4">
-
-                    </div>
+                        <div class="container">                            
+                                <p class="text-white fs-5 ">Quick Links</p>
+                                <ul class="remove-bullets remove-text-decoration">                                    
+                                    <li><a href="#">About Us</a></li>
+                                    <li><a href="#">Contact Us</a></li>
+                                    <li><a href="#">Policies</a></li>
+                                    <li><a href="#">Careers</a></li>
+                                </ul>                            
+                        </div>
+                    </div>                     
                 </div>
                 <div class="row">
-                    <div class="text-center">
-                       <p class="text-white">All Rights Reservee &copy; 2021, <a href="projectmantra.ai" class="text-decoration-none text-white">Project Mantra</a></p>
+                    <div class="text-white text-center">
+                       <p class="text-white">All Rights Reserved &copy; 2021, <a href="projectmantra.ai" class="text-decoration-none text-white">Project Mantra</a></p>
 
                     </div>
                 </div>
