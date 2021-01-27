@@ -19,7 +19,7 @@ Turn on Settings Synchronization of Settings by clicking **"Turn On"**.
 ![Step 2](https://github.com/jacobdennisp/Single-Page-Website/blob/main/assets/readme-images/3.png?raw=true)
 
 ### Step 3
-Click On Sign in & Turn on
+Click On Sign in & Turn on  
 ![Step 3](https://github.com/jacobdennisp/Single-Page-Website/blob/main/assets/readme-images/4.png?raw=true)
 
 ### Step 4
@@ -44,44 +44,54 @@ Create a Project and Save it In a Folder of Your Choice in VS Code
 ![Step 8](https://github.com/jacobdennisp/Single-Page-Website/blob/main/assets/readme-images/9.png?raw=true)
 
 ### Step 9
-Navigate to the Folder where you created the Project,
-Open Command Promt in VS Code by typing ` CTRL + `  
-Then Type the Git Command ` git init `
+Navigate to the Folder where you created the Project,  
+Open Command Promt in VS Code by typing  
+` CTRL + `    
+Then Type the Git Command  
+` git init `  
+
+
 ![Step 9](https://github.com/jacobdennisp/Single-Page-Website/blob/main/assets/readme-images/11.png?raw=true)
 
 ### Step 10
-Add the Files to your Github Repo
-Type the Git Command ` git add * `
+Add the Files to your Github Repo  
+ Type the Git Command  
+ ` git add * `  
 ![Step 10](https://github.com/jacobdennisp/Single-Page-Website/blob/main/assets/readme-images/15.png?raw=true)
 
 ### Step 11
-Commit the Changes
-Type the Git Command ` git commit -m "Commit Message" `
-THen Add the Remote Repo ` git remote add origin https://github.com/username/projectname.git `
+Commit the Changes  
+Type the Git Command
+  ` git commit -m "Commit Message" `  
+THen Add the Remote Repo  
+` git remote add origin https://github.com/username/projectname.git `   
 ![Step 11](https://github.com/jacobdennisp/Single-Page-Website/blob/main/assets/readme-images/14.png?raw=true)
 
 ### Step 12
-Commit the Changes
-Add the Branch ` git branch -M main `
+Commit the Changes  
+Add the Branch  
+` git branch -M main `  
 ![Step 12](https://github.com/jacobdennisp/Single-Page-Website/blob/main/assets/readme-images/14.png?raw=true)
 
 ### Step 13
-Signup and Push to the Github Repo
-Type the Command ` git push -u origin main`
-Click Continue
+Signup and Push to the Github Repo  
+Type the Command  
+` git push -u origin main`  
+Click Continue    
 ![Step 13](https://github.com/jacobdennisp/Single-Page-Website/blob/main/assets/readme-images/17.png?raw=true)
-CLick Authorize github
+CLick Authorize github    
 ![Step 14](https://github.com/jacobdennisp/Single-Page-Website/blob/main/assets/readme-images/18.png?raw=true)
 
 
 ### Step 14
-Push to Remote Repo
-Add the Branch ` git push -u origin main `
+Push to Remote Repo  
+Add the Branch  
+` git push -u origin main `    
 ![Step 15](https://github.com/jacobdennisp/Single-Page-Website/blob/main/assets/readme-images/19.png?raw=true)
 
 
-### Step 15
-On Successful Completion of Pushing to Repo You Should be able to see the Project in your Project Repository
+### Step 15  
+On Successful Completion of Pushing to Repo You Should be able to see the Project in your Project Repository  
 ![Step 16](https://github.com/jacobdennisp/Single-Page-Website/blob/main/assets/readme-images/19.png?raw=true)
 
 
