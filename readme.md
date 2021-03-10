@@ -1,4 +1,4 @@
-## SINGLE PAGE WEBSITE PROJECT 1 
+## SINGLE PAGE WEBSITE PROJECT 
 
 ### Dear Students, This Project is uploaded her for your reference.
 
