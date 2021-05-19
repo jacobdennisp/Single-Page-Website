@@ -1,6 +1,6 @@
 ## SINGLE PAGE WEBSITE PROJECT 
 
-### Dear Students, This Project is uploaded her for your reference.
+### Dear Students, This Project is uploaded here for your reference.(Not For Cloud Computing Students)
 
 The instructions for you to Complete and Upload your assignments will be/have been mailed to you.
 
